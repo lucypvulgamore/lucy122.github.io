@@ -1,0 +1,47 @@
+body {
+  background-color:#F8F8FF;
+   padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;;
+}
+
+header {
+ font-family: 'Montserrat', sans-serif;
+  color: darkred;
+  font-size: 50px;
+}
+
+h1 {
+font-family: 'Montserrat', sans-serif;;
+color: darkred;
+font-size: 12px;
+}
+
+
+img {
+border-radius: 40px;
+max-width: 100%;
+height: auto
+}
+
+
+article {
+  margin-left: 10%;
+  width: 60%;
+}
+
+
+.story_image {
+  width: 50%;
+}
+
+
+a {
+  color: deepskyblue;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
