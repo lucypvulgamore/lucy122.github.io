@@ -1,0 +1,80 @@
+body {
+  margin: 0px;
+}
+
+.sitename {
+  padding-right: 10px;
+  padding-top: 5px;
+}
+
+.boopboop {
+  font-family: 'Playfair Display', serif;
+  font-size: 60px;
+}
+
+.bodytext {
+  font-family: helvetica, sans-serif;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+.maintext {
+  font-family: helvetica, sans-serif;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 30px;
+}
+
+.byline {
+   font-family: helvetica, sans-serif;
+  font-size: 25px;
+}
+
+.site-banner {
+color: black;
+font-size: 30px;
+font-family: helvetica, sans-serif;
+font-weight: bolder;
+background-color: lightblue;
+padding: 20px;
+text-align: center;
+font-weight: bolder;
+}
+
+article {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+header {
+  margin-top: 40px;
+}
+
+h1 {
+  font-size: 46px;
+}
+
+.story_image {
+  width: 100%;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: helvetica, sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
